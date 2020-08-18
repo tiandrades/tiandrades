@@ -3,7 +3,7 @@
 
 - 🎓 Todos meus projetos estão disponíveis aqui
 
-Você pode encontrar as tecnologias que eu tenho experiência, estou estudando ou estou interessado em [meu perfil rocketseat](https://app.rocketseat.com.br/me/victor-menegazzo)
+You can find the technologies I have experience, I am studying or I am interested in my rocketseat [profile](https://app.rocketseat.com.br/me/tiago)
 
 
 ![TiagooAndrade's github stats](https://github-readme-stats.vercel.app/api?username=TiagooAndrade)
