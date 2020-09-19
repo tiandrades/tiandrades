@@ -3,7 +3,9 @@
 
 - 🎓 All my projects are available here
 
-You may be able to see what I have experience in, what I am studying and what I am interested in in my [Rocketseat Profile](https://app.rocketseat.com.br/me/tiago)
+<a>You may be able to see what I have experience in, what I am studying and what I am interested in in my [Rocketseat Profile](https://app.rocketseat.com.br/me/tiago)</a>
 
-![TiagooAndrade's github stats](https://github-readme-stats.vercel.app/api?username=TiagooAndrade)
-![TiagooAndrade's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooAndrade&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=TiagooAndrade&show_icons=true" alt="TiagoAndrade"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooAndrade&show_icons=true&layout=compact" alt="TiagoAndrade"/> 
+</p>
