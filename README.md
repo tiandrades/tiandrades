@@ -1,5 +1,5 @@
 <h1 align="center">Tiago Andrade</h1>
-<h3 align="center">In search of the next Level... React, React Native and TypeScript.</h3>
+<h3 align="center">In search of the next Level...</h3>
 
 - 🎓 All my projects are available here
 
