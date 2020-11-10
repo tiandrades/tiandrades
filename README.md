@@ -1,5 +1,4 @@
-<h1>Hi there 👋</h1>
-<h1 align="center">Tiago Silva</h1>
+<h1 align="center">Hi there 👋, I'm Tiago Silva</h1>
 
 - 🎓 All my projects are available here
 
