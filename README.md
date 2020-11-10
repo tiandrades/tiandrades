@@ -1,6 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Tiago Silva</h1>
 
-- 🎓 All my projects are available here
+- 🔭 I’m currently working on [FlowStep Inc.](https://github.com/FlowStepInc)
+- 🎓 A lot of my projects are available here
+- My Discord: Tyzer#4876
 
 You may be able to see what I have experience in, what I am studying and what I am interested in my [Rocketseat Profile](https://app.rocketseat.com.br/me/tiago)
 
