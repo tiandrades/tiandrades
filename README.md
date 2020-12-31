@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Tiago Andrade</h1>
+<h1 align="left">Hi there 👋</h1>
 
 - 🔭 I’m currently working on [FlowStep Inc.](https://github.com/FlowStepInc)
 - 🎓 A lot of my projects are available here
