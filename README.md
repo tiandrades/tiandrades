@@ -9,3 +9,8 @@ You may be able to see what I have experience in, what I am studying and what I 
 
 ![TiagoAndrade's github stats](https://github-readme-stats.vercel.app/api?username=TiagooAndrade&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&show_icons=true)
 ![TiagoAndrade's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooAndrade&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&layout=compact)
+
+<div align="center">
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api?username=TiagooAndrade&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&show_icons=true" />
+  <img height="165" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooAndrade&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&layout=compact" />
+</div>
