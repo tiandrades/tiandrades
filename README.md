@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   - Discord: [`Tyzer#4876`]
 
-:sparkles: My [`Rocketseat Profile`](https://app.rocketseat.com.br/me/tiago)
+✨ My [`Rocketseat Profile`](https://app.rocketseat.com.br/me/tiago)
 
 ![Tiago Andrade's github stats](https://github-readme-stats.vercel.app/api?username=TiagooAndrade&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&show_icons=true)
 ![Tiago Andrade's github top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooAndrade&bg_color=282a42&title_color=5a7dbf&text_color=a6c4fc&layout=compact)
