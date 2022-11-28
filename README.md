@@ -6,10 +6,10 @@
 <table align="center">
   <tr>
     <td>
-      <img alt="Tiago Andrade's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TiagooAndrade&bg_color=00000000&hide_border=true&title_color=72F2A5&text_color=a6fcc8&icon_color=4cf18e&show_icons=true" />
+      <img alt="Tiago Andrade's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=tiandrades&bg_color=00000000&hide_border=true&title_color=72F2A5&text_color=a6fcc8&icon_color=4cf18e&show_icons=true" />
     </td>
     <td>
-      <img alt="Tiago Andrade's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagooAndrade&bg_color=00000000&hide_border=true&title_color=72F2A5&text_color=a6fcc8&layout=compact" />
+      <img alt="Tiago Andrade's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiandrades&bg_color=00000000&hide_border=true&title_color=72F2A5&text_color=a6fcc8&layout=compact" />
     </td>
   </tr>
 </table>
